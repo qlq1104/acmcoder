@@ -1,0 +1,1 @@
+1002 <in.txt >out.txt
