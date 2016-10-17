@@ -1,1 +1,1 @@
-1000 <in.txt >out.txt
+main <in.txt >out.txt
