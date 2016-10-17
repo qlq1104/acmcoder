@@ -1,0 +1,1 @@
+1000 <in.txt >out.txt
