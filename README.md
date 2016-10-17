@@ -1,0 +1,1 @@
+Solution for http://acm.acmcoder.com/listproblem.php
