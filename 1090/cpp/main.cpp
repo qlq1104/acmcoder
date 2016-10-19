@@ -3,9 +3,11 @@ using namespace std;
 int main() {
     int n, a, b;
     cin >> n;
-    while (n--) {
+
+    for (int i=1; i<=n; ++i) {
         cin >> a >> b;
         cout << a + b << endl;
     }
+
     return 0;
 }
